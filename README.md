@@ -18,8 +18,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 https://www.youtube.com/watch?v=lh9XVGv6BHs 
 
-26.50
+npm install react-responsive-carousel (min47.00) ---> https://www.npmjs.com/package/react-responsive-carousel
 _______________________
+min 53
 _______________________
 _______________________
 _______________________
